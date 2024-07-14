@@ -35,3 +35,6 @@ This workflow helps to convert a list of references into a BibTeX file while han
         - `successful_titles.txt`: Contains the titles that were successfully processed.
         - `error_titles.txt`: Contains the titles that caused errors.
     - It will also print a summary of the processing, including the titles that failed, to the terminal.
+
+## Acknowledgment
+[doi2bib](https://github.com/bibcure/doi2bib/tree/master?tab=readme-ov-file)
