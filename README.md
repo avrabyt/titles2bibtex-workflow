@@ -1,6 +1,7 @@
 ## Reference Processing Workflow
 
-This workflow helps you convert a list of references into a BibTeX file while handling any errors gracefully. Follow the steps below to process your references efficiently.
+This workflow helps to convert a list of references into a BibTeX file while handling any errors gracefully. 
+> References List → Title Extraction → title2bib → BibTeX File Generation
 
 ### Steps:
 
